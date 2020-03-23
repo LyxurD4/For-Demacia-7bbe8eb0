@@ -10,5 +10,5 @@ $klas = array(
 for ($i = 0; $i <= count ($klas); $i++) {
     echo $klas[$i]. PHP_EOL;
 }
-
+$test = "iets";
 ?>
